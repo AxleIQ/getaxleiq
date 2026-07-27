@@ -1,0 +1,21 @@
+{
+  "name": "AxleIQ",
+  "short_name": "AxleIQ",
+  "description": "Professional software for commercial transportation.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "icons": [
+    {
+      "src": "/assets/axleiq-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/axleiq-icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
